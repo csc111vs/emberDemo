@@ -7,9 +7,4 @@
 .all-capital{
 text-transform: uppercase;
 }
-#map-canvas {
-    height: 620px;
-    width: 100%;
-    margin: 0px;
-    padding: 0px
-}
+#map { width:100%; height:400px; }
