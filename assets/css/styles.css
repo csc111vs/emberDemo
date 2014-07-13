@@ -1,0 +1,15 @@
+/* navbar */
+.navbar-default {
+	background-image: linear-gradient(to bottom, #00f 0px, #00f 100%);
+    border-color: #FFFFFF;
+    color: #FFFFFF;
+}
+.all-capital{
+text-transform: uppercase;
+}
+#map-canvas {
+    height: 620px;
+    width: 100%;
+    margin: 0px;
+    padding: 0px
+}
